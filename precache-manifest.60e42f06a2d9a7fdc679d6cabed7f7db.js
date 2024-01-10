@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "372d64770124b69b70354bb94781778a",
+    "revision": "ca8f1bebbff165367e0afa6c66534f37",
     "url": "/index.html"
   },
   {
-    "revision": "f3353c89d6ff4ee0cbac",
-    "url": "/static/css/main.4f3b2401.chunk.css"
+    "revision": "fe75eb8f2f91a4deff9a",
+    "url": "/static/css/main.9e891ff4.chunk.css"
   },
   {
-    "revision": "5c2926e806aca2cd8e9d",
-    "url": "/static/js/2.d45ef31f.chunk.js"
+    "revision": "dc9588db7dd1bdd7e659",
+    "url": "/static/js/2.c52ad00e.chunk.js"
   },
   {
-    "revision": "f3353c89d6ff4ee0cbac",
-    "url": "/static/js/main.70705a59.chunk.js"
+    "revision": "fe75eb8f2f91a4deff9a",
+    "url": "/static/js/main.34b51f0b.chunk.js"
   },
   {
     "revision": "29a9c7722b2557e1548c",
@@ -62,10 +62,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "16559172ca1d4d552390b48f19e102ba",
     "url": "/static/media/address_image.16559172.svg"
-  },
-  {
-    "revision": "eaf02c2d0158b6b4b8c2a0a0cf830a04",
-    "url": "/static/media/animated_ashutosh.eaf02c2d.png"
   },
   {
     "revision": "dcd6dee2bd7458a4a576dc131506fd83",
@@ -208,10 +204,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/intel_logo.29152cf7.jpg"
   },
   {
-    "revision": "60ed0bd3f8b99ac1d29e74575f804aaa",
-    "url": "/static/media/iu_logo.60ed0bd3.png"
-  },
-  {
     "revision": "5b4a6449747ec61a6d9aa874f2a9ceba",
     "url": "/static/media/jsFramework.5b4a6449.svg"
   },
@@ -260,20 +252,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/sherry.621476fd.jpg"
   },
   {
-    "revision": "2c497738be3831492aeb6bdc43f19154",
-    "url": "/static/media/stanford_logo.2c497738.png"
-  },
-  {
     "revision": "6ac91b161c2c9934a44f72d75d18142d",
     "url": "/static/media/talksCardBack.6ac91b16.svg"
   },
   {
     "revision": "3fa5424232370e3d049c9555d9c440a4",
     "url": "/static/media/talksCardBackAlt.3fa54242.svg"
-  },
-  {
-    "revision": "0993e3246bf5146154391a0afef79b03",
-    "url": "/static/media/tiktok_logo.0993e324.png"
   },
   {
     "revision": "d63630893eb8cb64af65f395d393c481",
